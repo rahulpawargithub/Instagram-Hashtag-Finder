@@ -1,2 +1,3 @@
-# Instagram-Hashtag-Finder
-Find related instagram hashtags from a single hashtag
+# Instagram Hashtag Finder
+Given a single seed tag this tool finds the related hastags from it and  
+also the number of posts for each one.
